@@ -8,6 +8,7 @@ BUILD = build
 SRC = src/aman.c\
 src/arithmetic_sourav.c\
 src/jyothi.c\
+src/amiya.c\
 test/test_calculator_operations.c\
 unity/unity.c\
  
